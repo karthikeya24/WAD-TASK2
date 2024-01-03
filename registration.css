@@ -1,0 +1,71 @@
+.textbox {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 10px;
+    background-color: rgb(250, 242, 242);
+    border-radius: 10px;
+    font-family: 'Long Cang', cursive;
+    font-size: 15px;
+}
+
+.genbox {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 10px;
+    background-color: rgb(250, 242, 242);
+    border-radius: 10px;
+    font-family: 'Long Cang', cursive;
+    font-size: 15px;
+}
+
+.passbox {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;;
+    border: 10px;
+    background-color: rgb(250, 242, 242);
+    border-radius: 10px;
+    font-family: 'Long Cang', cursive;
+    font-size: 15px;
+}
+
+.genbox {
+    display: inline-block;
+}
+
+.submit {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(48, 137, 137);
+    border: 0px;
+    border-radius: 8px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+.submit:hover {
+    cursor: pointer;
+    transition: 0.5s;
+    background-color: rgb(39, 111, 111);
+}
+
+.matter {
+    font-family: 'Long Cang', cursive;
+    font-size: 25px;
+}
+
+.submit-matter {
+    font-family: 'Long Cang', cursive;
+    font-size: 14px;
+}
+
+.mat {
+    font-family: 'Long Cang', cursive;
+    font-size: 19px;
+}

@@ -1,0 +1,16 @@
+.matter {
+    font-family: 'Long Cang', cursive;
+    font-size: 22px;
+}
+
+.share {
+    margin-right: 8px;
+    height: 380px;
+    width: auto;
+    border-radius: 20px;
+}
+
+.share:hover {
+    transition: 0.5s;
+    box-shadow: 8px 8px 8px;
+}

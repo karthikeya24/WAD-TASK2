@@ -1,0 +1,19 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #74a5a5;
+    color: white;
+    padding: 14px 25px;
+    border-radius: 10px;
+    font-family: 'Long Cang', cursive;
+    font-size: 25px;
+    font-weight: 500;font-family: 'Long Cang', cursive;
+    font-size: 25px;
+    font-weight: 500;
+}
+.contact:hover {
+    transition: 0.5s;
+    background-color: #7fcaca;
+}

@@ -1,0 +1,19 @@
+.matter {
+    font-family: 'Long Cang', cursive;
+    font-size: 21px;
+}
+
+.list {
+    font-family: 'Long Cang', cursive;
+    font-size: 18px;
+}
+
+.cat {
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.cat:hover {
+    box-shadow: 7px 7px 7px;
+    transition: 0.5s;
+}

@@ -1,0 +1,118 @@
+.head {
+    font-family: 'Long Cang', cursive;
+    font-size: 35px;
+}
+.shopping {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(236, 170, 39);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Long Cang', cursive;
+    font-size: 20px;
+}
+.shopping:hover {
+    transition: 1s;
+    background-color: rgb(236, 170, 39);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.videos {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(236, 170, 39);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Long Cang', cursive;
+    font-size: 20px;
+}
+.videos:hover {
+    transition: 1s;
+    background-color: rgb(236, 170, 39);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.hash {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(236, 170, 39);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Long Cang', cursive;
+    font-size: 20px;
+}
+.hash:hover {
+    transition: 1s;
+    background-color: rgb(236, 170, 39);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.message {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(236, 170, 39);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Long Cang', cursive;
+    font-size: 20px;
+}
+.message:hover {
+    transition: 1s;
+    background-color: rgb(236, 170, 39);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.profile {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(236, 170, 39);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Long Cang', cursive;
+    font-size: 20px;
+}
+.profile:hover {
+    transition: 1s;
+    background-color: rgb(236, 170, 39);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.share {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(236, 170, 39);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Long Cang', cursive;
+    font-size: 20px;
+}
+.share:hover {
+    transition: 1s;
+    background-color: rgb(236, 170, 39);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
